@@ -102,3 +102,6 @@ a{
         padding-top: 2rem;
     }
 }
+.rounded-avatar {
+    border-radius: 50%;
+}
